@@ -4,7 +4,13 @@
       <img src="@/assets/images/bg.jpg" alt="" />
     </div>
     <div class="main">
-      <h2 class="title">HOME</h2>
+      <h2>
+        <p class="sub">WEB PUBLISHER</p>
+        <div class="title">
+          <p>KIM Taehoon</p>
+          <p>PORTFOLIO</p>
+        </div>
+      </h2>
     </div>
   </div>
 </template>

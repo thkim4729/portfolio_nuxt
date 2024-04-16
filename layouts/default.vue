@@ -2,6 +2,7 @@
   <div :class="['wrap', { white: isWhite }]">
     <Header />
     <slot />
+    <Footer />
   </div>
 </template>
 

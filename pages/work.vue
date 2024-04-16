@@ -1,5 +1,8 @@
 <template>
   <div class="container">
+    <div class="bg">
+      <img src="" alt="" />
+    </div>
     <div class="work">
       <h2 class="title">MY WORK</h2>
       <div class="list-box">
