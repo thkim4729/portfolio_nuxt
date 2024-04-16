@@ -1,8 +1,11 @@
 <template>
   <div class="container">
-    여기가 index 페이지입니다.
-    <v-btn>안녕</v-btn>
-    <v-icon>mdi-close</v-icon>
+    <div class="bg">
+      <img src="@/assets/images/bg.jpg" alt="" />
+    </div>
+    <div class="main">
+      <h2 class="title">HOME</h2>
+    </div>
   </div>
 </template>
 <script></script>
