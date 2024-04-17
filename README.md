@@ -8,4 +8,4 @@
 
 ### Link
 
-<!-- https://thkim4729.github.io/portfolio_nuxt/ -->
+https://thkim4729.github.io/portfolio_nuxt/

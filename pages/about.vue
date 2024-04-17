@@ -7,7 +7,30 @@
       <h2 class="title">ABOUT ME</h2>
       <div class="about-box">
         <div class="item-img">
-          <img src="@/public/images/profile.png" alt="" />
+          <div class="img-box">
+            <img src="@/public/images/profile.png" alt="" />
+          </div>
+
+          <div class="profile white">
+            <p class="name"><span>김태훈</span><span>KIM Taehoon</span></p>
+            <p class="date">1994.12.20</p>
+            <div class="address">
+              <div class="">
+                <i aria-hidden="true" class="v-icon notranslate mr-4 mdi mdi-phone theme--light"></i>
+                <span>010-7115-4729</span>
+              </div>
+              <div class="">
+                <i aria-hidden="true" class="v-icon notranslate mr-4 mdi mdi-email-outline theme--light"></i>
+                <span>thkim4729@naver.com</span>
+              </div>
+              <div class="">
+                <a href="https://github.com/thkim4729" target="_blank" title="새창 열기">
+                  <i aria-hidden="true" class="v-icon notranslate mr-4 mdi mdi-github theme--light"></i>
+                  <span>https://github.com/thkim4729</span>
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="item-list">
           <ul>
@@ -43,7 +66,7 @@
             </li>
             <li>
               <span class="item-title">Career</span>
-              <div class="career-list">
+              <div class="career-list term">
                 <ul>
                   <li>
                     <span class="date">2022.05 ~ 2022.06</span>
@@ -62,7 +85,7 @@
                   </li>
                   <li>
                     <span class="date">2023.05 ~ 2024.05</span>
-                    <span class="text">미디어로그 운영</span>
+                    <span class="text">미디어로그 운영 (Vue.js)</span>
                   </li>
                 </ul>
               </div>
