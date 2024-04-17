@@ -15,6 +15,12 @@ export default defineNuxtConfig({
         },
       ],
     },
+    // 깃허브 페이지 호스팅시 하단 주석 풀기
+    // baseURL: 'https://github.com/thkim4729/portfolio_nuxt/',
+  },
+  ssr: false,
+  nitro: {
+    preset: 'github-pages',
   },
   css: ['vuetify/lib/styles/main.sass', '@mdi/font/css/materialdesignicons.min.css', '@/assets/main.scss'],
   build: {
