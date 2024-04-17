@@ -31,9 +31,6 @@
         }
       }
     }
-    footer {
-      position: initial;
-    }
   }
 }
 
@@ -286,6 +283,7 @@ footer {
   align-items: center;
   height: 60px;
   padding: 0 30px;
+  z-index: 1;
 }
 
 .container {
@@ -527,6 +525,10 @@ footer {
       .container {
         padding: 120px 20px 60px;
       }
+
+      footer {
+        padding: 0 20px;
+      }
     }
   }
 
@@ -654,6 +656,10 @@ footer {
     &.white {
       .container {
         padding: 120px 20px 60px;
+      }
+
+      footer {
+        padding: 0 20px;
       }
     }
   }
