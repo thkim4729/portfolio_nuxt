@@ -8,7 +8,8 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "gh-pages --dotfiles -d .output/public -f"
+    "homepage": "https://thkim4729.github.io/portfolio_nuxt/",
+    "deploy": "gh-pages --dotfiles -d .output/public"
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
