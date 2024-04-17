@@ -51,7 +51,7 @@ export default {
       projects: [
         {
           id: 1,
-          img: '/portfolio_nuxt/assets/public/images/genshin.jpg',
+          img: 'https://image.api.playstation.com/vulcan/img/rnd/202104/2508/sRsyFaUUTrtX5khs9Te2ghbD.png',
           project: 'CLONE CODING',
           name: '원신 프로젝트',
           tools: 'Vue.js',
@@ -61,7 +61,7 @@ export default {
         },
         {
           id: 2,
-          img: '/portfolio_nuxt/assets/public/images/kakao_business.jpg',
+          img: 'https://t1.kakaocdn.net/thumb/R1920x0.fwebp.q100/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaocorp%2Fkakaocorp%2Fadmin%2Fservice%2F7a392789017900001.jpg',
           project: 'CLONE CODING',
           name: '카카오비즈니스 프로젝트',
           tools: 'Vue.js',
@@ -71,7 +71,7 @@ export default {
         },
         {
           id: 3,
-          img: '/portfolio_nuxt/assets/public/images/kellogg.jpg',
+          img: 'https://thkim4729.github.io/portfolio/img/kellogg.16e219ad.jpg',
           project: 'CLONE CODING',
           name: '켈로그 프로젝트',
           tools: 'jQuery',
@@ -83,7 +83,7 @@ export default {
       designs: [
         {
           id: 1,
-          img: '/portfolio_nuxt/assets/public/images/laneige_thumbnail.png',
+          img: 'https://thkim4729.github.io/portfolio/img/laneige_thumbnail.8b02c548.png',
           project: 'REDESIGN',
           name: '라네즈 리디자인',
           tools: 'Photoshop',
@@ -93,7 +93,7 @@ export default {
         },
         {
           id: 2,
-          img: '/portfolio_nuxt/assets/public/images/etudehouse_thumbnail.png',
+          img: 'https://thkim4729.github.io/portfolio/img/etudehouse_thumbnail.7b9d1295.png',
           project: 'REDESIGN',
           name: '에뛰드하우스 리디자인',
           tools: 'Photoshop',
@@ -103,7 +103,7 @@ export default {
         },
         {
           id: 3,
-          img: '/portfolio_nuxt/assets/public/images/doosanbears_thumbnail.png',
+          img: 'https://thkim4729.github.io/portfolio/img/doosanbears_thumbnail.667c8a01.png',
           project: 'REDESIGN',
           name: '두산베어스 리디자인',
           tools: 'Photoshop',
@@ -113,7 +113,7 @@ export default {
         },
         {
           id: 4,
-          img: '/portfolio_nuxt/assets/public/images/foodforthehungry_thumbnail.png',
+          img: 'https://thkim4729.github.io/portfolio/img/foodforthehungry_thumbnail.6ed8fdc7.png',
           project: 'REDESIGN',
           name: 'FOOD FOR THE HUNGRY 리디자인',
           tools: 'Photoshop',
