@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "homepage": "https://github.com/thkim4729/portfolio_nuxt",
+    "homepage": "https://thkim4729.github.io/portfolio_nuxt",
     "deploy": "gh-pages --dotfiles -d .output/public"
   },
   "dependencies": {
