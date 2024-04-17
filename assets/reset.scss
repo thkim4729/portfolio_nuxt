@@ -1,10 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'NEXONFootballGothicLA1', 'Roboto', 'Noto Sans KR', sans-serif;
 }
 
 /* reset */
@@ -13,6 +11,7 @@ html {
   background-color: #fff;
   overflow-y: scroll;
   line-height: 1.15;
+  scroll-behavior: smooth;
 }
 body,
 div,
@@ -44,7 +43,6 @@ textarea,
 button {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', 'Noto Sans KR', sans-serif;
   line-height: 1.15;
 }
 fieldset,
@@ -96,6 +94,16 @@ a {
   text-decoration: none;
   outline: none;
   cursor: pointer;
+}
+input,
+button,
+a {
+  &:focus,
+  &:focus-visible {
+    outline-width: 1px;
+    outline-style: auto;
+    outline-color: -webkit-focus-ring-color;
+  }
 }
 i {
   font-style: normal;

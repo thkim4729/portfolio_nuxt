@@ -12,7 +12,7 @@
           <div class="info">
             <div class="profile">
               <div class="profile-img">
-                <img src="@/assets/images/profile.png" alt="" />
+                <img src="@/public/images/profile.png" alt="" />
               </div>
               <p class="name"><span>김태훈</span><span>KIM Taehoon</span></p>
               <p class="date">1994.12.20</p>
