@@ -51,7 +51,7 @@ export default {
       projects: [
         {
           id: 1,
-          img: '/images/genshin.jpg',
+          img: '@/public/images/genshin.jpg',
           project: 'CLONE CODING',
           name: '원신 프로젝트',
           tools: 'Vue.js',
@@ -61,7 +61,7 @@ export default {
         },
         {
           id: 2,
-          img: '/images/kakao_business.jpg',
+          img: '@/public/images/kakao_business.jpg',
           project: 'CLONE CODING',
           name: '카카오비즈니스 프로젝트',
           tools: 'Vue.js',
@@ -71,7 +71,7 @@ export default {
         },
         {
           id: 3,
-          img: '/images/kellogg.jpg',
+          img: '@/public/images/kellogg.jpg',
           project: 'CLONE CODING',
           name: '켈로그 프로젝트',
           tools: 'jQuery',
@@ -83,7 +83,7 @@ export default {
       designs: [
         {
           id: 1,
-          img: '/images/laneige_thumbnail.png',
+          img: '@/public/images/laneige_thumbnail.png',
           project: 'REDESIGN',
           name: '라네즈 리디자인',
           tools: 'Photoshop',
@@ -93,7 +93,7 @@ export default {
         },
         {
           id: 2,
-          img: '/images/etudehouse_thumbnail.png',
+          img: '@/public/images/etudehouse_thumbnail.png',
           project: 'REDESIGN',
           name: '에뛰드하우스 리디자인',
           tools: 'Photoshop',
@@ -103,7 +103,7 @@ export default {
         },
         {
           id: 3,
-          img: '/images/doosanbears_thumbnail.png',
+          img: '@/public/images/doosanbears_thumbnail.png',
           project: 'REDESIGN',
           name: '두산베어스 리디자인',
           tools: 'Photoshop',
@@ -113,7 +113,7 @@ export default {
         },
         {
           id: 4,
-          img: '/images/foodforthehungry_thumbnail.png',
+          img: '@/public/images/foodforthehungry_thumbnail.png',
           project: 'REDESIGN',
           name: 'FOOD FOR THE HUNGRY 리디자인',
           tools: 'Photoshop',
