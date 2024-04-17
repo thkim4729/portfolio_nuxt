@@ -15,14 +15,16 @@ export default defineNuxtConfig({
         },
       ],
     },
+    baseURL: 'portfolio_nuxt',
+  },
+  ssr: false,
+  nitro: {
+    preset: 'github-pages',
   },
   css: ['vuetify/lib/styles/main.sass', '@mdi/font/css/materialdesignicons.min.css', '@/assets/main.scss'],
   build: {
     transpile: ['vuetify'],
   },
-  // image: {
-  //   dir: 'assets/images',
-  // },
   vite: {
     define: {
       'process.env.DEBUG': false,
