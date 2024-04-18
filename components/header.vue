@@ -2,7 +2,7 @@
   <div>
     <header :class="['header', { open: isActive }]">
       <h1 class="home">
-        <a href="\">kimtaehoon</a>
+        <a href="/">kimtaehoon</a>
       </h1>
       <button type="button" class="menu-button" @click="toggleClass">
         <div></div>
