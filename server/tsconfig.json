@@ -1,7 +1,0 @@
-{
-  "extends": "../.nuxt/tsconfig.server.json",
-  "compilerOptions": {
-    "target": "es5",
-    "module": "es2015"
-  }
-}
