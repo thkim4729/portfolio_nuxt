@@ -85,7 +85,11 @@
                   </li>
                   <li>
                     <span class="date">2023.05 ~ 2024.05</span>
-                    <span class="text">미디어로그 운영 (Vue.js)</span>
+                    <span class="text">LG U+ 기업/소상공인 운영 (Vue.js)</span>
+                  </li>
+                  <li>
+                    <span class="date">2024.05 ~ 2024.10</span>
+                    <span class="text">새마을금고 체크카드 PC웹 고도화</span>
                   </li>
                 </ul>
               </div>
