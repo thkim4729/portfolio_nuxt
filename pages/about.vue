@@ -10,22 +10,38 @@
           <div class="img-box">
             <img src="@/public/images/profile.png" alt="" />
           </div>
+          <div class="img-box frente">
+            <img src="@/public/images/frente_suwon(2).png" alt="" />
+          </div>
 
           <div class="profile white">
             <p class="name"><span>김태훈</span><span>KIM Taehoon</span></p>
             <p class="date">1994.12.20</p>
             <div class="address">
               <div class="">
-                <i aria-hidden="true" class="v-icon notranslate mr-4 mdi mdi-phone theme--light"></i>
+                <i
+                  aria-hidden="true"
+                  class="v-icon notranslate mr-4 mdi mdi-phone theme--light"
+                ></i>
                 <span>010-7115-4729</span>
               </div>
               <div class="">
-                <i aria-hidden="true" class="v-icon notranslate mr-4 mdi mdi-email-outline theme--light"></i>
+                <i
+                  aria-hidden="true"
+                  class="v-icon notranslate mr-4 mdi mdi-email-outline theme--light"
+                ></i>
                 <span>thkim4729@naver.com</span>
               </div>
               <div class="">
-                <a href="https://github.com/thkim4729" target="_blank" title="새창 열기">
-                  <i aria-hidden="true" class="v-icon notranslate mr-4 mdi mdi-github theme--light"></i>
+                <a
+                  href="https://github.com/thkim4729"
+                  target="_blank"
+                  title="새창 열기"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon notranslate mr-4 mdi mdi-github theme--light"
+                  ></i>
                   <span>https://github.com/thkim4729</span>
                 </a>
               </div>
@@ -44,7 +60,10 @@
                   </li>
                   <li>
                     <span class="date">2020.11</span>
-                    <span class="text">한국직업전문학교 인터렉티브 앱 & 웹디자인(웹퍼블리셔, 프론트엔드)과정 수료</span>
+                    <span class="text"
+                      >한국직업전문학교 인터렉티브 앱 & 웹디자인(웹퍼블리셔,
+                      프론트엔드)과정 수료</span
+                    >
                   </li>
                 </ul>
               </div>
@@ -59,7 +78,10 @@
                   </li>
                   <li>
                     <span class="date">2020.11</span>
-                    <span class="text">한국직업전문학교 인터렉티브 앱 & 웹디자인(웹퍼블리셔, 프론트엔드)과정 우수상</span>
+                    <span class="text"
+                      >한국직업전문학교 인터렉티브 앱 & 웹디자인(웹퍼블리셔,
+                      프론트엔드)과정 우수상</span
+                    >
                   </li>
                 </ul>
               </div>
@@ -74,7 +96,9 @@
                   </li>
                   <li>
                     <span class="date">2022.07 ~ 2022.11</span>
-                    <span class="text">신한투자증권 퇴직연금 모바일웹 고도화</span>
+                    <span class="text"
+                      >신한투자증권 퇴직연금 모바일웹 고도화</span
+                    >
                   </li>
                   <li>
                     <span class="date">2022.12 ~ 2023.02</span>

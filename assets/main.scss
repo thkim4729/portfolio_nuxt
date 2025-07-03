@@ -1,6 +1,6 @@
-@import '@/assets/reset.scss';
-@import '@/assets/_mixins.scss';
-@import '@/assets/_font.scss';
+@import "@/assets/reset.scss";
+@import "@/assets/_mixins.scss";
+@import "@/assets/_font.scss";
 
 .wrap {
   &.white {
@@ -91,7 +91,7 @@ header {
       &:after,
       div {
         background: #ffffff;
-        content: '';
+        content: "";
         display: block;
         height: 2px;
         border-radius: 3px;
@@ -154,7 +154,12 @@ header {
               color: #ffffff;
               font-weight: bold;
               letter-spacing: 2px;
-              background: linear-gradient(to right, #0c4ca3, #0c4ca3 50%, #ffffff 50%);
+              background: linear-gradient(
+                to right,
+                #0c4ca3,
+                #0c4ca3 50%,
+                #ffffff 50%
+              );
               background-clip: text;
               -webkit-background-clip: text;
               -webkit-text-fill-color: transparent;
@@ -227,7 +232,7 @@ header {
         padding-left: 10px;
 
         &:before {
-          content: '';
+          content: "";
           display: inline-flex;
           align-items: center;
           width: 2px;
@@ -434,7 +439,7 @@ footer {
             }
 
             &:before {
-              content: '';
+              content: "";
               display: block;
               position: absolute;
               top: 0;
@@ -467,6 +472,10 @@ footer {
       .img-box {
         max-width: 200px;
         margin-bottom: 36px;
+
+        &.frente {
+          display: none;
+        }
       }
     }
 
@@ -613,7 +622,7 @@ footer {
               }
 
               &:before {
-                content: '';
+                content: "";
                 display: block;
                 position: absolute;
                 top: 0;
@@ -757,7 +766,7 @@ footer {
               }
 
               &:before {
-                content: '';
+                content: "";
                 display: block;
                 position: absolute;
                 top: 0;
