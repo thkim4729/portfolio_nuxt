@@ -10,7 +10,7 @@
           <div class="img-box">
             <img src="@/public/images/profile.png" alt="" />
           </div>
-          <div class="img-box frente">
+          <div class="img-box frente blind">
             <img src="@/public/images/frente_suwon(2).png" alt="" />
           </div>
 
